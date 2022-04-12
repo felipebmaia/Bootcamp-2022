@@ -1,0 +1,1 @@
+https://api.us-east.language-translator.watson.cloud.ibm.com/instances/6ad3254d-2c1f-49f8-9e2c-dc42e6ab3685
